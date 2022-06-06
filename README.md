@@ -1,21 +1,29 @@
-# portfolio
+# 이은지 포트폴리오 
+> 기아 타이거즈 야구단 팬 페이지 
 
-# 이은지 
-eunji6986@naver.com
-한국경영원 인재개발원 Spring MVC 웹 서비스 개발자 양성과정 이수 
+</br>
 
---- 
+## :pushpin: Intro
+견고한 개발을 하고 싶습니다
+감사합니다.
 
-# 프로젝트명 
+</br>
 
-# 프로젝트 기능
+## :pushpin: Contact
+- 이메일: eunji6986@naver.com
+- 노션: https://fluorescent-warlock-74e.notion.site/308eaabe787144d7b5229e8fbc55d965
+- 깃헙: https://github.com/eunji6986
 
-# 사용된 기술
+</br>
 
-# 제작기간과 참여인원 
 
-# 데모링크 
-
-# 깃헙 주소 
-
----  
+## :pushpin: Projects
+### 1. [KIA Tigers 팬 커뮤니티](https://github.com/eunji6986/-Team-baseball)
+>KIA Tigers 팬을 위한 커뮤니티 & 예매 & 유니폼 쇼핑몰 (팀 프로젝트)  
+>개발 기간: 2022.3.28 ~ 2022.4.27  
+>  
+>기술 스택:  
+>Java 11 / Spring Legacy / Maven 
+>Javascript / Oracle SQL / Kakao i'm port library 
+>  
+>[프로젝트 상세 설명](https://github.com/eunji6986/-Team-baseball) 참고
